@@ -482,10 +482,11 @@
 
     .foot {
         display: flex;
-        justify-content: center;
+        justify-content: start;
         align-items: center;
         background-color: #285E67;
         height: 365px;
+        padding-left: 139px;
 
         .inner-foot {
             max-width: 884px;
